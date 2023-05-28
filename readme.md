@@ -16,3 +16,9 @@ Skanna QR kod innifrån appen för att ladda ner direkt till enheten.
 Halmstad OpenStreetMap i skala 1:50'000.
 
 ![Halmstad_OSM_QR](https://github.com/klakar/maps/assets/6375959/b270cb25-4b51-4525-be99-116a1688550e)
+
+---
+
+Bryssel OpenStreetMap i skala 1:50'000. (Centrum till flygplatsen ungefär)
+
+![Bryssel_OSM_QR](https://github.com/klakar/maps/assets/6375959/1b2ff9ff-07bb-4786-8730-f2af38c7965e)
