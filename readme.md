@@ -7,4 +7,12 @@ Android [Google Play](https://play.google.com/store/apps/details?id=com.Avenza&u
 
 Skanna QR kod innifrån appen för att ladda ner direkt till enheten.
 
+---
+
 ![Avenza_Dinant_karta_1940](https://github.com/klakar/maps/assets/6375959/a2bd3c5e-0601-4a4a-9c84-f0bfe735a166)
+
+---
+
+Halmstad OpenStreetMap i skala 1:50'000.
+
+![Halmstad_OSM_QR](https://github.com/klakar/maps/assets/6375959/b270cb25-4b51-4525-be99-116a1688550e)
