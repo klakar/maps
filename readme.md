@@ -8,7 +8,7 @@ Detta är den primära kartprodukten som det arbetas med för närvarande. Bangu
 
 <img width="280" height="380" alt="Banguide framsida" src="https://github.com/user-attachments/assets/1c4835fb-b33d-46e1-a121-a36abacdb94e" />
 
-[Hämta Banguiden](https://raw.githubusercontent.com/klakar/maps/tree/main/Cards.pdf)
+[Hämta Banguiden](https://raw.githubusercontent.com/klakar/maps/main/Cards.pdf)
 
 #### Översiktskarta
 
