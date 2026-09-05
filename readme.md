@@ -14,6 +14,6 @@ Detta är den primära kartprodukten som det arbetas med för närvarande. Bangu
 
 Översikten är ett pågående arbete för att ta fram en ny bankarta för träningsområdet.
 
-<img width="400" height="284" alt="Discgolf Park Översikt" src="https://github.com/user-attachments/assets/c3afdf74-3e9a-4d55-b35a-39be76cf7c2d" />
+<img width="400" height="284" alt="Discgolf Park Översikt" src="https://github.com/user-attachments/assets/f385dfff-5925-418b-bfe9-0def4314a2c1" />
 
 Kartorna är gjorda med [QGIS](https://qgis.org) och data lagras i PostGIS databas som kan exporteras till GeoPackage på förfrågan till klubben.
